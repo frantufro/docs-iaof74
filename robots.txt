@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-9jb3mz.luilver.com/sitemap.xml
